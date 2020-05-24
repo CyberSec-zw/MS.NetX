@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/netx.ico</file>
+  </qresource>
+</RCC>
