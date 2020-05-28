@@ -1,5 +1,6 @@
 <RCC>
-  <qresource prefix="icons">
-    <file>icons/netx.ico</file>
+  <qresource prefix="images">
+    <file>NETX.png</file>
+    <file>icons/NETX2.png</file>
   </qresource>
 </RCC>
